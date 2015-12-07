@@ -1,0 +1,10 @@
+{
+    "name": "benit/ckeditor-dev",
+    "description": "A composer package for ck-editor",
+    "type": "library",
+    "authors": [
+        {
+            "email": "benoit.works@gmail.com"
+        }
+    ]
+}
